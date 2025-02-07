@@ -4,9 +4,9 @@
 This project detects fraudulent credit card transactions using machine learning. It was developed for the [Kaggle Credit Card Fraud Prediction Competition](https://www.kaggle.com/competitions/credit-card-fraud-prediction/overview).
 
 ## **Project Structure**
-- `data/` → Contains training and test datasets
-- `models/` → Stores trained models
-- `notebooks/` → Jupyter notebooks for preprocessing, training, and evaluation
+- `Data/` → Contains training and test datasets
+- `Model/` → Stores trained models
+- `Notebook/` → Jupyter notebooks for preprocessing, training, and evaluation
 
 
 ## **Training Process**
